@@ -496,3 +496,11 @@
         </profile>
     </profiles>
 </project>
+
+<distributionManagement>
+  <repository>
+    <id>gol-repo</id>
+    <url>http://13.126.100.132:8081/nexus/content/repositories/gol-repo</url>
+  </repository>
+</distributionManagement>
+
